@@ -6,10 +6,10 @@ I am interested in learning cool stuff and currently working on Web Development.
 
 Languages I know:
 Fluent:
-    C
-    C++
-    Python
-Working on: 
-    Java
-    HTML,CSS
-    Flask
+    C  
+    C++  
+    Python  
+Working on:   
+    Java  
+    HTML,CSS  
+    Flask  
