@@ -10,7 +10,4 @@ Languages I know:  📚
       C++  
       Python    
       HTML,CSS 
-##### &emsp;Working on:  👌 
-      Java   
-      Flask  
 Finally i am open to work 👀
