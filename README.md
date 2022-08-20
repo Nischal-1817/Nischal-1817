@@ -1,6 +1,6 @@
 ### Hi there, Myself Nischal Pradyoth 👋
 
-I am currently in 2nd year of B.Tech Computer science at IIITDM Kancheepuram. 👨‍🎓
+I am currently in 3rd year of B.Tech Computer science at IIITDM Kancheepuram. 👨‍🎓
 
 I am interested in learning cool stuff and currently working on Web Development and Data Science. 👨‍💻
 
